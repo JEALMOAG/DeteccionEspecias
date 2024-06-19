@@ -1,0 +1,7 @@
+path: C:\Users\jama2\Downloads\spices
+train: C:\Users\jama2\Downloads\spices\images\train
+val: C:\Users\jama2\Downloads\spices\images\train
+
+names:
+ 0: "StarAnis"
+ 1: "cardamom"
